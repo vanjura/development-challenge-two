@@ -8,20 +8,20 @@ Medcloud's challenge for the general development internship vacancy.
 
 ## Required
 
-- You need to develop both the front-end and the back-end.
-- In the front-end you MUST use React.
-- In the back-end you MUST use the AWS free-tier.
-- The patient data should not be static or local.
-- AWS DynamoDB as database.
-- AWS Lambda for serveless computing.
-- AWS API Gateway for managing your REST API.
+- [X] You need to develop both the front-end and the back-end.
+- [X] In the front-end you MUST use React.
+- [X] In the back-end you MUST use the AWS free-tier.
+- [X] The patient data should not be static or local.
+- [X] AWS DynamoDB as database.
+- [X] AWS Lambda for serveless computing.
+- [X] AWS API Gateway for managing your REST API.
 
 ## Extra Points
 
 - Cache the data in-browser.
-- Edit and delete operations.
-- Use Material UI - https://material-ui.com.
-- A cool design.
+- [X] Edit and delete operations.
+- [X] Use Material UI - https://material-ui.com.
+- [X] A cool design.
 
 ## References
 

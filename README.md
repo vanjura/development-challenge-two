@@ -18,7 +18,7 @@ Medcloud's challenge for the general development internship vacancy.
 
 ## Extra Points
 
-- Cache the data in-browser.
+- [ ] Cache the data in-browser.
 - [X] Edit and delete operations.
 - [X] Use Material UI - https://material-ui.com.
 - [X] A cool design.
